@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Blog Detail ccc</div>
+                <div class="card-header">Blog Detail </div>
 
                 <div class="card-body">
                     <h2>{{ $blog->post_title }}</h2>
